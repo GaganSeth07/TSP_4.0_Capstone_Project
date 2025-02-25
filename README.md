@@ -1,4 +1,4 @@
-# TSP_4.0_DataVista_Capstone_Project
+# TSP_DataVista_Capstone_Project
 ## DATAVISTA: Sales Data Analysis and Visualization
 
 Dataset - SUPERMARKET SALES
